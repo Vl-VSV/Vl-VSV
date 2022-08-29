@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vlad
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b76117b1f33e6691bd7c7260a5f28cbe608a9df4d5398&rid=giphy.gif&ct=s" width="150"/>
 </div>
 
 ### Connect with me:
