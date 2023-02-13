@@ -8,9 +8,11 @@
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"  title="CSS3" alt="CSS" width="40" height="40"/>](https://t.me/vsv070)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg"  title="CSS3" alt="CSS" width="40" height="40"/>](https://vk.com/gw_vlad00)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"  title="CSS3" alt="CSS" width="40" height="40"/>](https://discordapp.com/users/499493684186841089/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  title="CSS3" alt="CSS" width="40" height="40"/>](https://www.instagram.com/vl_vsv/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/artstation.svg"  title="CSS3" alt="CSS" width="40" height="40"/>](https://vladislav3115.artstation.com/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg"  title="CSS3" alt="CSS" width="40" height="40"/>](https://www.behance.net/vladvoronin?tracking_source=search_users%7Cvlad%20voronin)
+
 
 ### Languages and Tools:
 <div>
