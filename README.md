@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b76117b1f33e6691bd7c7260a5f28cbe608a9df4d5398&rid=giphy.gif&ct=s" width="150"/>
 </div>
 
-### [My Personal Web-Site](https://vlvsv.ru)
+### [My Personal Web-Site](https://vl-vsv.ru)
 
 ### Connect with me:
 
